@@ -349,7 +349,7 @@ img{
     content: "";
     width: 12px;
     height: 8px;
-    background-image: url(/img/after.svg);
+    background-image: url(../img/after.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
