@@ -395,7 +395,7 @@ img{
     content: "";
     width: 12px;
     height: 8px;
-    background-image: url(/img/after.svg);
+    background-image: url(../img/after.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -534,7 +534,7 @@ img{
     content: "";
     width: 17px;
     height: 13px;
-    background-image: url(/img/after.svg);
+    background-image: url(../img/after.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -550,7 +550,7 @@ img{
     content: "";
     width: 15px;
     height: 14px;
-    background-image: url(/img/cross.svg);
+    background-image: url(../img/cross.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -601,7 +601,7 @@ img{
 .review__card::before{
     position: absolute;
     content: '';
-    background-image: url(/img/review/Ellipse\ 301.png);
+    background-image: url(../img/review/Ellipse\ 301.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -611,7 +611,7 @@ img{
     top: -50px;
 }
 .review__card--man::before{
-    background-image: url(/img/review/Ellipse\ 302.png);
+    background-image: url(../img/review/Ellipse\ 302.png);
 }
 .review__card-icon {
 }
