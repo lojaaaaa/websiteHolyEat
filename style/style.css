@@ -646,7 +646,7 @@ img{
 .review__card::before{
     position: absolute;
     content: '';
-    background-image: url(/img/review/Ellipse\ 301.png);
+    background-image: url(../img/review/Ellipse\ 301.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -656,7 +656,7 @@ img{
     top: -50px;
 }
 .review__card--man::before{
-    background-image: url(/img/review/Ellipse\ 302.png);
+    background-image: url(../img/review/Ellipse\ 302.png);
 }
 .review__card-icon {
 }
